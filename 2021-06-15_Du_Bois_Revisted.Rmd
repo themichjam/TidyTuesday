@@ -4,7 +4,7 @@ author: Developed by Michelle K Jamieson
 output: github_document
 knit: (function(input, ...) { rmarkdown::render(input, output_file = 'README.md') })
 editor_options: 
-  chunk_output_type: console
+  chunk_output_type: console 
 always_allow_html: true
 ---
 
