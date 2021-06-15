@@ -1,6 +1,4 @@
 # TidyTuesday
-
-# TidyTuesday
   
 Join the R4DS Online Learning Community in the weekly [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) event!
     
@@ -13,3 +11,5 @@ The goal of TidyTuesday is to apply your R skills, get feedback, explore otherâ€
 As such we encourage everyone of all skills to participate!
 
 # 2021-06-15 (Week 25) Du Bois & Juneteenth Revisited
+
+![Engagement for Du Bois Challenge](render/dubois.png)
