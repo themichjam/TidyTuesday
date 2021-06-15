@@ -1,5 +1,5 @@
 ---
-title: "Du Bois and Juneteenth Revisited"
+title: "Du Bois & Juneteenth Revisited"
 author: Developed by Michelle K Jamieson
 output: github_document
 knit: (function(input, ...) { rmarkdown::render(input, output_file = 'README.md') })
