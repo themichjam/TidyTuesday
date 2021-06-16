@@ -1,8 +1,7 @@
 ---
 title: "Du Bois & Juneteenth Revisited"
 author: Developed by Michelle K Jamieson
-output: github_document
-knit: (function(input, ...) { rmarkdown::render(input, output_file = 'README.md') })
+output: github_document 
 editor_options: 
   chunk_output_type: console 
 always_allow_html: true
