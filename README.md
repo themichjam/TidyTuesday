@@ -10,6 +10,10 @@ The goal of TidyTuesday is to apply your R skills, get feedback, explore otherâ€
 
 As such we encourage everyone of all skills to participate!
 
-# 2021-06-15 (Week 25) Du Bois & Juneteenth Revisited
+# 2021.07.27 (Week 31): Olympic Medals
+
+![Olympic Medals](render/olympics.png)
+
+# 2021.06.15 (Week 25): Du Bois & Juneteenth Revisited
 
 ![Engagement for Du Bois Challenge](render/dubois.png)
