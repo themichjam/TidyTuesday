@@ -10,10 +10,23 @@ The goal of TidyTuesday is to apply your R skills, get feedback, explore otherâ€
 
 As such we encourage everyone of all skills to participate!
 
-# 2021.07.27 (Week 31): Olympic Medals
+
+# 2021-07-27 (Week 31): Olympic Medals
+
+Each country and the sport they most excelled at between 1980 and 2016.
 
 ![Olympic Medals](render/olympics.png)
 
-# 2021.06.15 (Week 25): Du Bois & Juneteenth Revisited
+
+# 2021-07-20 (Week 30): US Droughts
+
+Evolution of droughts in the US over the last 20 years
+
+![Engagement for Du Bois Challenge](render/droughts.png)
+
+
+# 2021-06-15 (Week 25): Du Bois & Juneteenth Revisited
+
+Tweet engagement for the #DuBoisChallenge in the style of De Bois.
 
 ![Engagement for Du Bois Challenge](render/dubois.png)
