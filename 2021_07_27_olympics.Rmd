@@ -231,17 +231,17 @@ plot <- plot_data %>%
 
 ```{r save graphic}
 # Set up a device to save the graphic
-ragg::agg_png(here::here("render/olympics.png", width = 4000, height = 2400, scaling = 4)) 
+ragg::agg_png("render/olympics.png", width = 4000, height = 2400, scaling = 4) 
 ```
 
 ```{r print graphic}
 # Print the graphic to save
-#cowplot::ggdraw(plot) +
-#  cowplot::draw_image(
-#    olympics_logo,
-#    x = .55, y = .975, width = 0.19,
-#    hjust = 0, vjust = 1, halign = 1, valign = 1
-#  )
+cowplot::ggdraw(plot) +
+  cowplot::draw_image(
+    olympics_logo,
+    x = .55, y = .975, width = 0.19,
+    hjust = 0, vjust = 1, halign = 1, valign = 1
+  )
 ```
 
 ```{r off}
